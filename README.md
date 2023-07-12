@@ -8,7 +8,7 @@
 6. Aesthetic and minimalist design
 
 ## Link to bad Design
-
+### https://github.com/askhan963/hci-project-design-1
 ## How To Run
 1. Clone this Repo
 2. npm install
